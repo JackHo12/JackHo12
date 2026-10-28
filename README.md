@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @JackHo12
-- 🧑🏻‍💻 I have 10 years of work experience in Game Server with Erlang/OTP.
-- 👀 I’m interested in Cloud Native Development and Backend Development.
+# Hi, I'm Jack 👋
 
-<!---
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-JackHo12/JackHo12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Senior Backend Engineer with 10 years of experience building and operating large-scale, high-concurrency game backends and distributed services.
+
+- 🛠 **Core Stack:** Go, Erlang/OTP, Python, C++, Distributed Systems, Cloud-Native (K8s, GCP)
+- 🎮 **Domain Focus:** Real-time multiplayer synchronization, player systems, matchmaking, and high-throughput microservices.
+- 💬 Ask me about game server architecture, actor concurrency models, and resilient distributed systems.
