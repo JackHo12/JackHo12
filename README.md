@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @JackHo12
 - 🧑🏻‍💻 I have 10 years of work experience in Game Server with Erlang/OTP.
-- 👀 I’m interested in Cloud Native Development
-- 🌱 I’m currently learning the Go Programming Language
-
+- 👀 I’m interested in Cloud Native Development and Backend Development.
 
 <!---
 - 💞️ I’m looking to collaborate on ...
